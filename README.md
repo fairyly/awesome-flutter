@@ -13,6 +13,9 @@ Flutter库，工具，教程，文章等
 
 
 
+## demos
+- [Flutter豆瓣客户端](https://github.com/kaina404/FlutterDouBan)
+
 ## 参考
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
