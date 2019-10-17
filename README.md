@@ -15,9 +15,11 @@ Flutter库，工具，教程，文章等
 
 ## demos
 - [Flutter豆瓣客户端](https://github.com/kaina404/FlutterDouBan)
+- [NeteaseCloudMusic Flutter 版本的网易云音乐](https://github.com/wanglu1209/NeteaseCloudMusic)
 
 ## 参考
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
 - [Flutter免费视频教程第一季：开发环境搭建](https://juejin.im/post/5be3d54cf265da611d6624d3)
 - [Flutter Launch Timeline Demo - HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)
+- [Flutter实战 | 从 0 搭建「网易云音乐」APP](https://juejin.im/post/5d9de9a2e51d4578282ce25a)
