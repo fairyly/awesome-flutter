@@ -23,3 +23,4 @@ Flutter库，工具，教程，文章等
 - [Flutter免费视频教程第一季：开发环境搭建](https://juejin.im/post/5be3d54cf265da611d6624d3)
 - [Flutter Launch Timeline Demo - HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)
 - [Flutter实战 | 从 0 搭建「网易云音乐」APP](https://juejin.im/post/5d9de9a2e51d4578282ce25a)
+- [Dart packages](https://pub.dev/)
